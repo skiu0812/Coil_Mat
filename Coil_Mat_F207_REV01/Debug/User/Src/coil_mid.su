@@ -1,0 +1,6 @@
+../User/Src/coil_mid.c:20:6:coilInit	16	static
+../User/Src/coil_mid.c:40:6:coilSolenoidOpen	16	static
+../User/Src/coil_mid.c:69:6:coilPwmSet	24	static
+../User/Src/coil_mid.c:92:10:coilCurr	24	static
+../User/Src/coil_mid.c:105:10:coilMaxCurr	24	static
+../User/Src/coil_mid.c:116:6:cliCoil	24	static

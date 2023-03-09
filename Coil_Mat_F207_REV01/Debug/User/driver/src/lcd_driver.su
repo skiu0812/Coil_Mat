@@ -1,0 +1,16 @@
+../User/driver/src/lcd_driver.c:44:6:writecommand	16	static
+../User/driver/src/lcd_driver.c:59:6:writedata	16	static
+../User/driver/src/lcd_driver.c:74:6:writecolor	16	static
+../User/driver/src/lcd_driver.c:81:10:readdata	16	static
+../User/driver/src/lcd_driver.c:90:13:TransferDoneISR	8	static
+../User/driver/src/lcd_driver.c:108:6:lcdDriverInit	16	static
+../User/driver/src/lcd_driver.c:117:6:lcdDriverFuncSet	16	static
+../User/driver/src/lcd_driver.c:129:6:lcdDriverReset	16	static
+../User/driver/src/lcd_driver.c:172:10:lcdDriverGetWidth	4	static
+../User/driver/src/lcd_driver.c:177:10:lcdDriverGetHeight	4	static
+../User/driver/src/lcd_driver.c:182:6:lcdDriverFillRect	32	static
+../User/driver/src/lcd_driver.c:223:6:lcdDriverSendBuffer	32	static
+../User/driver/src/lcd_driver.c:247:6:lcdDriverSetCallBack	16	static
+../User/driver/src/lcd_driver.c:254:6:lcdDriverSetRotation	16	static
+../User/driver/src/lcd_driver.c:278:6:lcdDriverSetWindow	40	static
+../User/driver/src/lcd_driver.c:306:6:lcdDriverInitRegs	8	static

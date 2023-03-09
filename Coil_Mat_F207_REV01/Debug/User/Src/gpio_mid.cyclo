@@ -1,0 +1,7 @@
+gpio_mid.c:38:6:gpioInit	2
+gpio_mid.c:58:6:gpioPortRcc	17
+gpio_mid.c:100:6:gpioPinMode	9
+gpio_mid.c:148:6:gpioPinWrite	3
+gpio_mid.c:166:6:gpioPinRead	3
+gpio_mid.c:184:6:gpioPinToggle	2
+gpio_mid.c:197:6:cliGpio	11

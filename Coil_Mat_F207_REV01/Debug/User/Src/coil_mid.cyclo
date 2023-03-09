@@ -1,0 +1,6 @@
+coil_mid.c:20:6:coilInit	1
+coil_mid.c:40:6:coilSolenoidOpen	1
+coil_mid.c:69:6:coilPwmSet	5
+coil_mid.c:92:10:coilCurr	2
+coil_mid.c:105:10:coilMaxCurr	1
+coil_mid.c:116:6:cliCoil	11

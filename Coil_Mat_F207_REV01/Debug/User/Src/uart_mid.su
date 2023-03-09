@@ -1,0 +1,12 @@
+../User/Src/uart_mid.c:34:6:uartInit	16	static
+../User/Src/uart_mid.c:52:6:uartOpen	40	static
+../User/Src/uart_mid.c:85:10:uartOpen_RxDMA	32	static
+../User/Src/uart_mid.c:114:10:uartAvailable	24	static
+../User/Src/uart_mid.c:134:9:uartRead	24	static
+../User/Src/uart_mid.c:153:10:uartWrite	24	static
+../User/Src/uart_mid.c:177:10:uartPrintf	1060	static
+../User/Src/uart_mid.c:195:10:uartPrintfNotice	1056	static
+../User/Src/uart_mid.c:224:10:uartGetBaud	24	static
+../User/Src/uart_mid.c:243:6:uartAdjBaud	16	static
+../User/Src/uart_mid.c:260:6:HAL_UART_RxCpltCallback	16	static
+../User/Src/uart_mid.c:273:6:HAL_UART_ErrorCallback	16	static

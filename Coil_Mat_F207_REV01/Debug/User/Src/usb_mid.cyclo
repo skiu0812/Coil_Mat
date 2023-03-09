@@ -1,0 +1,3 @@
+usb_mid.c:15:6:usbInit	1
+usb_mid.c:23:10:usbCDCWrite	4
+usb_mid.c:55:9:usbCDCSOF	3

@@ -1,0 +1,12 @@
+uart_mid.c:34:6:uartInit	2
+uart_mid.c:52:6:uartOpen	5
+uart_mid.c:85:10:uartOpen_RxDMA	3
+uart_mid.c:114:10:uartAvailable	3
+uart_mid.c:134:9:uartRead	3
+uart_mid.c:153:10:uartWrite	4
+uart_mid.c:177:10:uartPrintf	1
+uart_mid.c:195:10:uartPrintfNotice	3
+uart_mid.c:224:10:uartGetBaud	3
+uart_mid.c:243:6:uartAdjBaud	3
+uart_mid.c:260:6:HAL_UART_RxCpltCallback	1
+uart_mid.c:273:6:HAL_UART_ErrorCallback	1

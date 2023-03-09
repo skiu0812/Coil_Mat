@@ -1,0 +1,6 @@
+led_mid.c:31:6:ledInit	2
+led_mid.c:50:6:ledOn	2
+led_mid.c:60:6:ledOff	2
+led_mid.c:70:6:ledToggle	2
+led_mid.c:81:6:ledCtrl	5
+led_mid.c:100:6:cliLed	7

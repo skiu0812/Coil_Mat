@@ -1,0 +1,5 @@
+han.c:22:10:hanFontLoad	6
+han.c:70:6:hanWanFontLoad	9
+han.c:111:6:hanUniFontLoad	9
+han.c:158:6:hanEngFontLoad	2
+han.c:173:10:hanCnvCodeWan2Johab	1

@@ -1,0 +1,4 @@
+test_mid.c:14:6:testUART1nUART2SendFile	7
+test_mid.c:51:6:testUART2nUART3SendFile	7
+test_mid.c:89:6:testUART1nUARTxSendFile	7
+test_mid.c:125:6:testFlashReadWriteErase	9

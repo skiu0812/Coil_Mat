@@ -1,0 +1,5 @@
+../User/display/lcd/fonts/han.c:22:10:hanFontLoad	24	static
+../User/display/lcd/fonts/han.c:70:6:hanWanFontLoad	24	static
+../User/display/lcd/fonts/han.c:111:6:hanUniFontLoad	24	static
+../User/display/lcd/fonts/han.c:158:6:hanEngFontLoad	24	static
+../User/display/lcd/fonts/han.c:173:10:hanCnvCodeWan2Johab	24	static
